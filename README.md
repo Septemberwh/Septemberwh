@@ -25,6 +25,19 @@
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)\
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)&nbsp;
 
+### 🔭 GitHub Analysis
+<!-- 
+参考：https://github.com/anuraghazra/github-readme-stats 
+-->
+<p align="left">
+  <a href="https://github.com/Septemberwh">
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Septemberwh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Septemberwh&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  </a>
+</p>
+
+[![Y.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Septemberwh&theme=xcode)](https://github.com/Septemberwh)
+
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
   <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-septwong@foxmail.com-green"/>
