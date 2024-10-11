@@ -36,7 +36,9 @@
   </a>
 </p>
 
-[![Y.'s github activity graph](https://activity-graph.herokuapp.com/graph?username=Septemberwh&theme=xcode)](https://github.com/Septemberwh)
+<!-- 
+[![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=Septemberwh&theme=xcode)](https://github.com/Septemberwh)
+-->
 
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
