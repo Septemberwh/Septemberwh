@@ -57,7 +57,9 @@
 
 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
 
-[`Buy me a cup of coffee`](https://github.com/Septemberwh/sponsor)
+<!-- [`Buy me a cup of coffee`](https://github.com/Septemberwh/sponsor) -->
+
+<a href="https://github.com/Septemberwh/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 155px !important;" ></a>
 
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
