@@ -31,7 +31,7 @@
 <!-- 
 参考：https://github.com/anuraghazra/github-readme-stats 
 -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/Septemberwh">
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Septemberwh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
     <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Septemberwh&layout=compact&exclude_lang=java+r&theme=vue-dark" />
