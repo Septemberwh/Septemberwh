@@ -1,3 +1,5 @@
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0066D6FF&lines=welcome+to+my+GitHub"> </h1>
+
 ## 👋 Hey guys, I'm Sept Wong 
 
 ![](https://komarev.com/ghpvc/?username=Septemberwh&style=for-the-badge)
@@ -39,6 +41,23 @@
 <!-- 
 [![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=Septemberwh&theme=xcode)](https://github.com/Septemberwh)
 -->
+
+### 💗 Recommend
+
+<div align="center">
+  <a href="https://github.com/Septemberwh/tdesign-miniprogram-snippets">
+    <img width="40%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <a href="https://github.com/Septemberwh/markdown-syntax">
+    <img width="40%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+</div>
+
+<img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
+
+### 💰 Sponsors
+
+为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
+
+[`Buy me a cup of coffee`](https://github.com/Septemberwh/sponsor)
 
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
