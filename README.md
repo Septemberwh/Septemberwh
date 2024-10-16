@@ -55,7 +55,7 @@
 
 ### 💰 Sponsors
 
-为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪
+<!-- 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪 -->
 
 <!-- [`Buy me a cup of coffee`](https://github.com/Septemberwh/sponsor) -->
 
