@@ -35,8 +35,8 @@
 -->
 <p align="center">
   <a href="https://github.com/Septemberwh">
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Septemberwh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Septemberwh&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+    <img width="40%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Septemberwh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img width="40%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Septemberwh&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   </a>
 </p>
 
@@ -48,9 +48,9 @@
 
 <div align="center">
   <a href="https://github.com/Septemberwh/tdesign-miniprogram-snippets">
-    <img width="40%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/Septemberwh/markdown-syntax">
-    <img width="40%" hei src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
