@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Septemberwh&style=for-the-badge)
 
+<!-- <p><img src="https://api.moedog.org/count/@Septemberwh_readme?theme=rule34" alt="Septemberwh" /></p> -->
+
 ### 👨🏻‍💻 About Me
 
 💬 Thinking ...\
