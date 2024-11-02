@@ -2,9 +2,9 @@
 
 ## 👋 Hey guys, I'm Sept Wong 
 
-![](https://komarev.com/ghpvc/?username=Septemberwh&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=septwong&style=for-the-badge)
 
-<!-- <p><img src="https://api.moedog.org/count/@Septemberwh_readme?theme=rule34" alt="Septemberwh" /></p> -->
+<!-- <p><img src="https://api.moedog.org/count/@septwong_readme?theme=rule34" alt="septwong" /></p> -->
 
 ### 👨🏻‍💻 About Me
 
@@ -36,23 +36,23 @@
 参考：https://github.com/anuraghazra/github-readme-stats 
 -->
 <p align="center">
-  <a href="https://github.com/Septemberwh">
-    <img width="45%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Septemberwh&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-    <img width="45%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Septemberwh&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <a href="https://github.com/septwong">
+    <img width="45%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septwong&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+    <img width="45%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   </a>
 </p>
 
 <!-- 
-[![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=Septemberwh&theme=xcode)](https://github.com/Septemberwh)
+[![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=septwong&theme=xcode)](https://github.com/septwong)
 -->
 
 ### 💗 Recommend
 
 <div align="center">
-  <a href="https://github.com/Septemberwh/tdesign-miniprogram-snippets">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/Septemberwh/markdown-syntax">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Septemberwh&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <a href="https://github.com/septwong/tdesign-miniprogram-snippets">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <a href="https://github.com/septwong/markdown-syntax">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
@@ -61,9 +61,9 @@
 
 <!-- 为爱发电，如果我的工作帮助到了你，可以请我喝一杯咖啡☕️，鼓励我继续努力💪 -->
 
-<!-- [`Buy me a cup of coffee`](https://github.com/Septemberwh/sponsor) -->
+<!-- [`Buy me a cup of coffee`](https://github.com/septwong/sponsor) -->
 
-<a href="https://github.com/Septemberwh/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 155px !important;" ></a>
+<a href="https://github.com/septwong/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 155px !important;" ></a>
 
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
