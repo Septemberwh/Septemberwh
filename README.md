@@ -63,7 +63,7 @@
 
 <!-- [`Buy me a cup of coffee`](https://github.com/septwong/sponsor) -->
 
-<a href="https://github.com/septwong/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 36px !important;width: 155px !important;" ></a>
+<a href="https://github.com/septwong/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 28px !important;width: 121.52px !important;" ></a>
 
 ### 🤝🏻 Connect
 <a href="https://wx.mail.qq.com/">
