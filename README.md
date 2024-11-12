@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0066D6FF&lines=welcome+to+my+GitHub"> </h1>
 
-## 👋 Hey guys, I'm Sept Wong 
+## 👋 Hey guys, I'm Sept Wong
 
 ![](https://komarev.com/ghpvc/?username=septwong&style=for-the-badge)
 
@@ -12,7 +12,7 @@
 🤔 Focus on front-end development ...\
 🌱 Currently living in Wuhan.
 
-### 🛠 Technology Stack 
+### 🛠 Technology Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=HTML5)&nbsp;
@@ -32,8 +32,9 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=flat&logo=markdown)&nbsp;
 
 ### 🔭 GitHub Analysis
-<!-- 
-参考：https://github.com/anuraghazra/github-readme-stats 
+
+<!--
+参考：https://github.com/anuraghazra/github-readme-stats
 -->
 <p align="center">
   <a href="https://github.com/septwong">
@@ -42,7 +43,7 @@
   </a>
 </p>
 
-<!-- 
+<!--
 [![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=septwong&theme=xcode)](https://github.com/septwong)
 -->
 
@@ -66,6 +67,7 @@
 <a href="https://github.com/septwong/sponsor" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" style="height: 28px !important;width: 121.52px !important;" ></a>
 
 ### 🤝🏻 Connect
+
 <a href="https://wx.mail.qq.com/">
   <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-septwong@foxmail.com-green"/>
 </a>
