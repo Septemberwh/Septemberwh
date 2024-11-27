@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066D6&width=286&lines=welcome+to+my+GitHub" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066D6&width=288&lines=welcome+to+my+GitHub" alt="Typing SVG" />
 </div>
 
 ## 👋 Hey guys, I'm Sept Wong
