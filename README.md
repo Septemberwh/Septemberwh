@@ -1,4 +1,6 @@
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0066D6FF&lines=welcome+to+my+GitHub"> </h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0066D6&width=383&lines=welcome+to+my+GitHub" alt="Typing SVG" />
+</div>
 
 ## 👋 Hey guys, I'm Sept Wong
 
