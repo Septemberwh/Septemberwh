@@ -42,7 +42,7 @@
 <p align="center">
   <a href="https://github.com/septwong">
     <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septwong&show_icons=true&include_all_commits=true&count_private=true&theme=merko" />
-    <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=gruvbox" />
+    <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=merko" />
   </a>
 </p>
 
@@ -54,13 +54,13 @@
 
 <div align="center">
   <a href="https://github.com/septwong/tdesign-miniprogram-snippets">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=tdesign-miniprogram-snippets&theme=radical&bg_color=0d1117&hide_border=true" /></a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=tdesign-miniprogram-snippets&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/septwong/markdown-syntax">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=markdown-syntax&theme=tokyonight&bg_color=0d1117&hide_border=true" /></a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=markdown-syntax&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/septwong/vscode-webstorm-theme">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=vscode-webstorm-theme&theme=onedark&bg_color=0d1117&hide_border=true" /></a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=vscode-webstorm-theme&theme=dark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/septwong/git-commit-message">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=git-commit-message&theme=cobalt&bg_color=0d1117&hide_border=true" /></a>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=git-commit-message&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
