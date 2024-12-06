@@ -55,8 +55,8 @@
 
 <p align="center">
   <a href="https://github.com/septwong">
-   <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark">
-    <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
+   <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark">
+    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
   </a>
 </p>
 
