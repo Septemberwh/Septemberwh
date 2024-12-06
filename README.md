@@ -40,20 +40,25 @@
 参考：https://github.com/anuraghazra/github-readme-stats
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8) -->
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/septwong">
-    <img  width="96%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark">
-    <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark">
-    <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
-    <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septwong&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
-    <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=onedark" />
+    <img  width="100%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark">
+    <!-- <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septwong&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
+    <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=onedark" /> -->
   </a>
-</p> -->
+</p>
+
+<p align="center">
+  <a href="https://github.com/septwong">
+   <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark">
+    <img  width="48%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
+  </a>
+</p>
 
 <!--
 [![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=septwong&theme=xcode)](https://github.com/septwong)
